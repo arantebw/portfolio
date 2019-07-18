@@ -1,3 +1,4 @@
 # arantebw.github.io
 
-My personal domain on GitHub.
+---
+Hi! I'm [Billy Arante](#), a Software Developer from the [Philippines](#).
