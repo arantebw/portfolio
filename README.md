@@ -1,6 +1,6 @@
 # arantebw.github.io
 
-Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-pesonal-portfolio-webpage/), a Software Developer from the [Philippines](#).
+Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-webpage/), a Software Developer from the [Philippines](#).
 
 You can reach me at:  
 
