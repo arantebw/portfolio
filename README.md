@@ -7,10 +7,16 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 - [freeCodeCamp](https://www.freecodecamp.org/arantebw)
 - [LinkedIn](https://www.linkedin.com/in/billyarante/)
 - [Twitter](https://twitter.com/arantebw)
+- [GitHub](https://github.com/arantebw)
 
 ## freeCodeCamp Projects
 
 These are the projects I had created using the [freeCodeCamp.org](#) online learning platform.
+
+### Responsive Web Design
+
+- [Build A Tribute Page](https://arantebw.github.io/project-build-a-tribute-page/)
+- [Build A Personal Portfolio Webpage](https://arantebw.github.io/build-a-personal-portfolio-webpage/)
 
 ### APIs and Microservices
 
