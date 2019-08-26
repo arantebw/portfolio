@@ -8,16 +8,12 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 - [GitHub](https://github.com/arantebw)
 
 ---
-- [Technical Skills](#technical)
-- [Personal Projects](#personal)
-- [Zuitt Coding Bootcamp Projects](#zuitt)
-- [freeCodeCamp Projects](#free)
 
-## Technical Skills <a id="technical"></a>
+## Technical Skills
 
-## Personal Projects <a id="personal"></a>
+## Personal Projects
 
-## Zuitt Coding Bootcamp Projects <a id="zuitt"></a>
+## Zuitt Coding Bootcamp Projects
 
 These are the projects I created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
 
@@ -33,7 +29,7 @@ These are the projects I created during the 12-week intensive software developme
 
   A short description.
 
-## freeCodeCamp Projects <a id="free"></a>
+## freeCodeCamp Projects
 
 These are the projects I created using the [freeCodeCamp](https://www.freecodecamp.org/) online learning platform for software development.
 
