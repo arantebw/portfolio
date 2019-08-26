@@ -15,6 +15,10 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 
 ## Personal Projects
 
+- [Inteliqas Energy](#)
+
+  A hackathon project we created during the Globe Hack-A-Nation 2.0. A web-and-IoT-enabled system that will allow a consumer to sell electricity surplus.
+  
 ---
 
 ## Zuitt Coding Bootcamp Projects
