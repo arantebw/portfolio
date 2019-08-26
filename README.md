@@ -25,7 +25,7 @@ These are the projects I had created during the 12-week intensive software devel
 
 ## freeCodeCamp Projects
 
-These are the projects I created using the [freeCodeCamp.org](#) online learning platform.
+These are the projects I created using the [freeCodeCamp](https://www.freecodecamp.org/) online learning platform for software development.
 
 ### Responsive Web Design
 
