@@ -7,7 +7,10 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 - [Twitter](https://twitter.com/arantebw)
 - [GitHub](https://github.com/arantebw)
 
-## Zuitt Coding Bootcamp Projects
+---
+- [Zuitt Coding Bootcamp Projects](#zuitt)
+
+## Zuitt Coding Bootcamp Projects <a id="zuitt"></a>
 
 These are the projects I created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
 
@@ -17,7 +20,7 @@ These are the projects I created during the 12-week intensive software developme
   
 - Capstone Project 2: [Kraff Beeer](#)
 
-  A short description.
+  A dynamic website designed for an ecommerce product -- craft beer. Made with HTML, CSS (Bootstrap), JavaScript, PHP, MySQL.
   
 - Capstone Project 3: [Reoslack](#)
 
