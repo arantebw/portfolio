@@ -1,6 +1,6 @@
 # arantebw.github.io
 
-Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-webpage/), a Web Developer from the [Philippines](#).
+Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-webpage/), a Software Developer from the Philippines.
 
 ## You can reach me at:  
 
@@ -25,3 +25,6 @@ These are the projects I had created using the [freeCodeCamp.org](#) online lear
 - [URL Shortener Microservice](#)
 - [Exercise Tracker Microservice](#)
 - [File Metadata Microservice](#)
+
+---
+(c) 2019 by Billy Arante
