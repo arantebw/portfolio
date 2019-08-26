@@ -11,7 +11,11 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 
 ## Technical Skills
 
+---
+
 ## Personal Projects
+
+---
 
 ## Zuitt Coding Bootcamp Projects
 
@@ -28,6 +32,8 @@ These are the projects I created during the 12-week intensive software developme
 - Capstone Project 3: [Reoslack](#)
 
   A short description.
+
+---
 
 ## freeCodeCamp Projects
 
@@ -64,6 +70,7 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 - [File Metadata Microservice](#)
 
   A short description.
-  
+
 ---
+
 (c) 2019 by Billy Arante
