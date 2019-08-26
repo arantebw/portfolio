@@ -9,7 +9,7 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 
 ## Zuitt Coding Bootcamp Projects
 
-These are the projects I had created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
+These are the projects I created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
 
 - Capstone Project 1: [arantebillywilson's blog](#)
 
