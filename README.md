@@ -50,34 +50,15 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 ### Responsive Web Design
 
 - [Build A Tribute Page](https://arantebw.github.io/build-a-tribute-page/)
-
-  A short description.
-  
 - [Build A Personal Portfolio Webpage](https://arantebw.github.io/build-a-personal-portfolio-webpage/)
 
-  A short description.
-  
 ### APIs and Microservices
 
-- [Timestamp Microservice](#)
-
-  A short description.
-  
-- [Request Header Parser Microservice](#)
-
-  A short description.
-  
-- [URL Shortener Microservice](#)
-
-  A short description.
-  
-- [Exercise Tracker Microservice](#)
-
-  A short description.
-  
-- [File Metadata Microservice](#)
-
-  A short description.
+- [Timestamp Microservice](https://abw-timestamp-microservice.herokuapp.com/)
+- [Request Header Parser Microservice](https://abw-request-header-parser.herokuapp.com/)
+- [URL Shortener Microservice](https://abw-url-shortener-microservice.herokuapp.com/)
+- [Exercise Tracker Microservice](https://abw-exercise-tracker.herokuapp.com/)
+- [File Metadata Microservice](https://abw-file-metadata-microservice.herokuapp.com/)
 
 ---
 
