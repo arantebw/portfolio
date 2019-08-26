@@ -14,6 +14,9 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 These are the project I had created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
 
 - [Capstone Project 1](#)
+
+  A short description.
+  
 - [Capstone Project 2](#)
 - [Capstone Project 3](#)
 
