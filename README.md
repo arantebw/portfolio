@@ -2,8 +2,6 @@
 
 Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-webpage/), a Software Developer from the Philippines.
 
-## You can reach me at:  
-
 - [freeCodeCamp](https://www.freecodecamp.org/arantebw)
 - [LinkedIn](https://www.linkedin.com/in/billyarante/)
 - [Twitter](https://twitter.com/arantebw)
@@ -11,7 +9,7 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 
 ## Zuitt Coding Bootcamp Projects
 
-These are the project I had created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
+These are the projects I had created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
 
 - [Capstone Project 1](#)
 
@@ -27,7 +25,7 @@ These are the project I had created during the 12-week intensive software develo
 
 ## freeCodeCamp Projects
 
-These are the projects I had created using the [freeCodeCamp.org](#) online learning platform.
+These are the projects I created using the [freeCodeCamp.org](#) online learning platform.
 
 ### Responsive Web Design
 
