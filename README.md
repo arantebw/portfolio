@@ -9,10 +9,6 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 
 ---
 
-## Technical Skills
-
----
-
 ## Personal Projects
 
 - [Inteliqas Energy](#)
