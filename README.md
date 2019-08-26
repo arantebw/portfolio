@@ -39,7 +39,7 @@ These are the projects I created during the 12-week intensive software developme
   
 - Capstone Project 3: [Reoslack](#)
 
-  A short description.
+  A messenger web application designed to replicate Slack. Made with HTML, CSS (Bootstrap), JavaScript, PHP, MySQL, Laravel.
 
 ---
 
