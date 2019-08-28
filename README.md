@@ -54,8 +54,8 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 - [Request Header Parser Microservice](https://abw-request-header-parser.herokuapp.com/)
 - [URL Shortener Microservice](https://abw-url-shortener-microservice.herokuapp.com/)
 - [Exercise Tracker Microservice](https://abw-exercise-tracker.herokuapp.com/)
-- [File Metadata Microservice](https://abw-file-metadata-microservice.herokuapp.com/)
+- [File Metadata Microservice](https://abw-file-metadata-microservice.herokuapp.com/) (development in-progress)
 
 ---
 
-(c) 2019 by Billy Arante
+Copyright (c) 2019 by Billy Arante
