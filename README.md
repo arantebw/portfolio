@@ -1,5 +1,3 @@
----
-
 Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-webpage/), a Software Developer (JavaScript, Python, PHP) from the Philippines.
 
 - [freeCodeCamp](https://www.freecodecamp.org/arantebw)
