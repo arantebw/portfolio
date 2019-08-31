@@ -1,4 +1,4 @@
-# arantebw.github.io
+---
 
 Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-webpage/), a Software Developer (JavaScript, Python, PHP) from the Philippines.
 
@@ -54,7 +54,7 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 - [Request Header Parser Microservice](https://abw-request-header-parser.herokuapp.com/)
 - [URL Shortener Microservice](https://abw-url-shortener-microservice.herokuapp.com/)
 - [Exercise Tracker Microservice](https://abw-exercise-tracker.herokuapp.com/)
-- [File Metadata Microservice](https://abw-file-metadata-microservice.herokuapp.com/) (development in-progress)
+- [File Metadata Microservice](https://abw-file-metadata-microservice.herokuapp.com/)
 
 ---
 
