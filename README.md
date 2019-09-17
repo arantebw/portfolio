@@ -42,18 +42,22 @@ These are the projects I created during the 12-week intensive software developme
 
 These are the projects I created using the [freeCodeCamp](https://www.freecodecamp.org/) online learning platform for software development.
 
-### Responsive Web Design
+### Responsive Web Design Certification Projects:
 
 - [Build A Tribute Page](https://arantebw.github.io/build-a-tribute-page/)
 - [Build A Personal Portfolio Webpage](https://arantebw.github.io/build-a-personal-portfolio-webpage/)
 
-### APIs and Microservices
+### APIs and Microservices Certification Projects:
 
 - [Timestamp Microservice](https://abw-timestamp-microservice.herokuapp.com/)
 - [Request Header Parser Microservice](https://abw-request-header-parser.herokuapp.com/)
 - [URL Shortener Microservice](https://abw-url-shortener-microservice.herokuapp.com/)
 - [Exercise Tracker Microservice](https://abw-exercise-tracker.herokuapp.com/)
 - [File Metadata Microservice](https://abw-file-metadata-microservice.herokuapp.com/)
+
+### Information Security and Quality Assurance Certification Projects:
+
+- [Metric-Imperial Converter](#) (work in-progress)
 
 ---
 
