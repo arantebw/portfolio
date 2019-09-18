@@ -57,7 +57,30 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 
 ### Information Security and Quality Assurance Certification Projects:
 
-- [Metric-Imperial Converter](#) (work in-progress)
+- [Metric-Imperial Converter](#) (work-in-progress)
+
+---
+
+## Certifications
+
+### freeCodeCamp:
+
+- [APIs and Microservices Developer Certification](https://www.freecodecamp.org/certification/arantebw/apis-and-microservices)
+- [Information Security and Quality Assurance Developer Certification](#) (work-in-progress)
+
+### Zuitt Coding Bootcamp:
+
+- Full Stack Web Development Certification
+
+---
+
+## Courses
+
+### MongoDB University:
+
+- [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) (work-in-progress)
+- [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) (work-in-progress)
+- [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) (work-in-progress)
 
 ---
 
