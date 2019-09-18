@@ -57,7 +57,7 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 
 ### Information Security and Quality Assurance Certification Projects:
 
-- [Metric-Imperial Converter](#) (work-in-progress)
+- [Metric-Imperial Converter](https://abw-metric-imperial-converter.herokuapp.com/)
 
 ---
 
