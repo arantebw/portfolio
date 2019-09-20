@@ -20,7 +20,7 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 
 ---
 
-## Zuitt Coding Bootcamp Projects
+## Zuitt (formerly Tuitt) Coding Bootcamp Projects
 
 These are the projects I created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
 
@@ -66,21 +66,16 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 ### freeCodeCamp:
 
 - [APIs and Microservices Developer Certification](https://www.freecodecamp.org/certification/arantebw/apis-and-microservices)
-- [Information Security and Quality Assurance Developer Certification](#) (work-in-progress)
 
-### Zuitt Coding Bootcamp:
+### Zuitt (formerly Tuitt) Coding Bootcamp:
 
-- Full Stack Web Development Certification
-
----
+- [Full Stack Web Development Certification](#)
 
 ## Courses
 
 ### MongoDB University:
 
-- [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) (work-in-progress)
-- [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) (work-in-progress)
-- [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) (work-in-progress)
+- [M001: MongoDB Basics](http://university.mongodb.com/course_completion/7e34ad85-bee8-4e82-aaca-d0769f054ab8)
 
 ---
 
