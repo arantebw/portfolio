@@ -27,7 +27,7 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 - Capstone Project 2: [Kraff Beeer](#)  
   A dynamic website designed for an ecommerce product -- craft beer. Made with HTML, CSS (Bootstrap), JavaScript, PHP, MySQL.
 
-- Capstone Project 3: [Reoslack](#)
+- Capstone Project 3: [Reoslack](#)  
   A messenger web application designed to replicate Slack. Made with HTML, CSS (Bootstrap), JavaScript, PHP, MySQL, Laravel.
 
 ---
