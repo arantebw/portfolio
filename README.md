@@ -78,6 +78,10 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 
 - [M001: MongoDB Basics](http://university.mongodb.com/course_completion/7e34ad85-bee8-4e82-aaca-d0769f054ab8)
 
+### Udemy:
+
+- [Learn Socket Programming in C from Scratch](https://www.udemy.com/certificate/UC-91C374JE/)
+
 ### Linux Training Academy:
 
 - [Shell Scripting Course](https://courses.linuxtrainingacademy.com/course/shell-scripting-discover-how-to-automate-command-line-tasks/)
