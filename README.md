@@ -90,12 +90,10 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 
 ## Communities
 
-- [freeCodeCamp Manila](https://www.facebook.com/groups/free.code.camp.manila/)
-
+- [freeCodeCamp Manila](https://www.facebook.com/groups/free.code.camp.manila/)  
   We are students/users of freeCodeCamp.com based in Manila and other parts of the Philippines. We are learning to code (or improve our coding) online on our own time at our own pace! We also get to build things to help causes that we believe in. It is a totally free volunteer supported resource provided by an awesome community. Let us collaborate and learn web development FOR FREE using a specialized and solid curriculum at [freeCodeCamp.com](https://www.freecodecamp.com/).
 
-- [freeCodeCamp Antique](https://www.facebook.com/groups/free.code.camp.antique/)
-
+- [freeCodeCamp Antique](https://www.facebook.com/groups/free.code.camp.antique/)  
   freeCodeCamp Antique is a community (study group) of software developers, enthusiasts, ICT students and instructors from the province of Antique, Philippines who loves to code. Learn to code at [https://www.freecodecamp.com/](https://www.freecodecamp.com/)
 
 ---
