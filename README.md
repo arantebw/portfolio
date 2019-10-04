@@ -35,12 +35,12 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 ## freeCodeCamp Projects
   These are the projects I created using the [freeCodeCamp](https://www.freecodecamp.org/) online learning platform for software development.
 
-### Responsive Web Design Certification Projects:
+### Responsive Web Design Certification Projects
 
 - [Build A Tribute Page](https://arantebw.github.io/build-a-tribute-page/)
 - [Build A Personal Portfolio Webpage](https://arantebw.github.io/build-a-personal-portfolio-webpage/)
 
-### APIs and Microservices Certification Projects:
+### APIs and Microservices Certification Projects
 
 - [Timestamp Microservice](https://abw-timestamp-microservice.herokuapp.com/)
 - [Request Header Parser Microservice](https://abw-request-header-parser.herokuapp.com/)
@@ -48,7 +48,7 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 - [Exercise Tracker Microservice](https://abw-exercise-tracker.herokuapp.com/)
 - [File Metadata Microservice](https://abw-file-metadata-microservice.herokuapp.com/)
 
-### Information Security and Quality Assurance Certification Projects:
+### Information Security and Quality Assurance Certification Projects
 
 - [Metric-Imperial Converter](https://abw-metric-imperial-converter.herokuapp.com/)
 
@@ -56,11 +56,11 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 
 ## Certifications
 
-### freeCodeCamp:
+### freeCodeCamp
 
 - [APIs and Microservices Developer Certification](https://www.freecodecamp.org/certification/arantebw/apis-and-microservices)
 
-### Zuitt (formerly Tuitt) Coding Bootcamp:
+### Zuitt (formerly Tuitt) Coding Bootcamp
 
 - [Full Stack Web Development Certification](#)
 
@@ -68,23 +68,35 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 
 ## Courses
 
-### Udacity:
+### Udacity
 
 - [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 - [Wrinting READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 - [Make Your Own 2048](#)
 
-### MongoDB University:
+### MongoDB University
 
 - [M001: MongoDB Basics](http://university.mongodb.com/course_completion/7e34ad85-bee8-4e82-aaca-d0769f054ab8)
 
-### Udemy:
+### Udemy
 
 - [Learn Socket Programming in C from Scratch](https://www.udemy.com/certificate/UC-91C374JE/)
 
-### Linux Training Academy:
+### Linux Training Academy
 
 - [Shell Scripting Course](https://courses.linuxtrainingacademy.com/course/shell-scripting-discover-how-to-automate-command-line-tasks/)
+
+---
+
+## Communities
+
+- [freeCodeCamp Manila](https://www.facebook.com/groups/free.code.camp.manila/)
+
+  We are students/users of freeCodeCamp.com based in Manila and other parts of the Philippines. We are learning to code (or improve our coding) online on our own time at our own pace! We also get to build things to help causes that we believe in. It is a totally free volunteer supported resource provided by an awesome community. Let us collaborate and learn web development FOR FREE using a specialized and solid curriculum at [freeCodeCamp.com](https://www.freecodecamp.com/).
+
+- [freeCodeCamp Antique](https://www.facebook.com/groups/free.code.camp.antique/)
+
+  freeCodeCamp Antique is a community (study group) of software developers, enthusiasts, ICT students and instructors from the province of Antique, Philippines who loves to code. Learn to code at [https://www.freecodecamp.com/](https://www.freecodecamp.com/)
 
 ---
 
