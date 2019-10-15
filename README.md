@@ -1,10 +1,15 @@
-Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-webpage/), a Software Developer (JavaScript, Python, PHP) from the Philippines.
+Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-webpage/), a career-shifter, teaching, remote-only [Python, JavaScript, PHP] software developer from the Philippines.
 
+---
+
+## You Can Reach Me Through
+
+- [GitHub](https://github.com/arantebw)
 - [freeCodeCamp](https://www.freecodecamp.org/arantebw)
 - [LinkedIn](https://www.linkedin.com/in/billyarante/)
 - [Twitter](https://twitter.com/arantebw)
-- [GitHub](https://github.com/arantebw)
 - [Glitch](https://glitch.com/@arantebw)
+- [Blog](#) (work-in-progress)
 
 ---
 
@@ -21,13 +26,13 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 ## Zuitt (formerly Tuitt) Coding Bootcamp Projects
   These are the projects I created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
 
-- Capstone Project 1: [arantebillywilson's blog](#)  
+- Capstone Project 1: [project-weblog](#)  
   A static website with layout designed for a blogsite. Made with HTML, CSS (Bootstrap), JavaScript.
 
-- Capstone Project 2: [Kraff Beeer](#)  
+- Capstone Project 2: [project-ecommerce](#)  
   A dynamic website designed for an ecommerce product -- craft beer. Made with HTML, CSS (Bootstrap), JavaScript, PHP, MySQL.
 
-- Capstone Project 3: [Reoslack](#)  
+- Capstone Project 3: [project-messenger](#)  
   A messenger web application designed to replicate Slack. Made with HTML, CSS (Bootstrap), JavaScript, PHP, MySQL, Laravel.
 
 ---
