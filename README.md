@@ -9,7 +9,7 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 - [LinkedIn](https://www.linkedin.com/in/billyarante/)
 - [Twitter](https://twitter.com/arantebw)
 - [Glitch](https://glitch.com/@arantebw)
-- [Blog](#) (work-in-progress)
+- [Blog](http://project-weblog-env.j4arphgxri.us-east-2.elasticbeanstalk.com/) (work-in-progress)
 
 ---
 
@@ -26,7 +26,7 @@ Hi! I'm [Billy Arante](https://arantebw.github.io/build-a-personal-portfolio-web
 ## Zuitt (formerly Tuitt) Coding Bootcamp Projects
   These are the projects I created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
 
-- Capstone Project 1: [project-weblog](#)  
+- Capstone Project 1: [project-weblog](http://project-weblog-env.j4arphgxri.us-east-2.elasticbeanstalk.com/)  
   A static website with layout designed for a blogsite. Made with HTML, CSS (Bootstrap), JavaScript.
 
 - Capstone Project 2: [project-ecommerce](#)  
