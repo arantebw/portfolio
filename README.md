@@ -1,43 +1,17 @@
 # arantebw.github.io
 
-Hi! I'm [Billy Arante](https://arantebw.github.io/portfolio/), a web developer (Python, PHP, JavaScript) from the Philippines.
+Hi! I'm Billy Arante, a software developer, and a community leader from the Philippines.
 
-## You Can Reach Me Through
+## Contents
 
-- [GitHub](https://github.com/arantebw)
-- [freeCodeCamp](https://www.freecodecamp.org/arantebw)
-- [LinkedIn](https://www.linkedin.com/in/billyarante/)
-- [Twitter](https://twitter.com/arantebw)
-- [Glitch](https://glitch.com/@arantebw)
-- [Blog](http://project-weblog-env.j4arphgxri.us-east-2.elasticbeanstalk.com/) (work-in-progress)
+- [freeCodeCamp Projects](#fcc)
+- [Zuitt (formerly Tuitt) Coding Bootcamp Projects](#zuitt)
+- [Certifications](#cert)
+- [Crash Courses](#course)
+- [Communities](#community)
+- [Contact Me](#contact)
 
-## Hackathon Projects
-
-- [Inteliqas Energy](#)  
-
-  A hackathon project we created during the Globe Hack-A-Nation 2.0 on July 2017 event. A web-and-IoT-enabled system that will allow a consumer to sell electricity surplus.
-
-- [WardIO](#)  
-
-  A hackathon project we created during the ADB-AIM Hackathon on October 2017 event. A web-and-IoT-enabled system that will allow a consumer to remotely monitor critical vital signs of a patient.
-
-## Zuitt (formerly Tuitt) Coding Bootcamp Projects
-
-These are the projects I created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
-
-- [project-weblog](http://project-weblog-env.j4arphgxri.us-east-2.elasticbeanstalk.com/)  
-
-  A static website with layout designed for a blogsite. Made with HTML, CSS (Bootstrap), JavaScript.
-
-- [project-ecommerce](#)  
-
-  A dynamic website designed for an ecommerce product -- craft beer. Made with HTML, CSS (Bootstrap), JavaScript, PHP, MySQL.
-
-- [project-messenger](#)  
-
-  A messenger web application designed to replicate Slack. Made with HTML, CSS (Bootstrap), JavaScript, PHP, MySQL, Laravel.
-
-## freeCodeCamp Projects
+## freeCodeCamp Projects <span id="fcc"></span>
 
 These are the projects I created using the [freeCodeCamp](https://www.freecodecamp.org/) online learning platform for software development.
 
@@ -58,7 +32,23 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 
 - [Metric-Imperial Converter](https://abw-metric-imperial-converter.herokuapp.com/)
 
-## Certifications
+## Zuitt (formerly Tuitt) Coding Bootcamp Projects <span id="zuitt"></span>
+
+These are the projects I created during the 12-week intensive software development bootcamp at [Zuitt](https://zuitt.co/) (formerly Tuitt).
+
+- [Project Web Log](#)  
+
+  A static website with layout designed for a blogsite. Made with HTML, CSS (Bootstrap), JavaScript.
+
+- [Project eCommerce](#)  
+
+  A dynamic website designed for an ecommerce product -- craft beer. Made with HTML, CSS (Bootstrap), JavaScript, PHP, MySQL.
+
+- [Project Messenger](#)  
+
+  A messenger web application designed to replicate Slack. Made with HTML, CSS (Bootstrap), JavaScript, PHP, MySQL, Laravel.
+
+## Certifications <span id="cert"></span>
 
 ### freeCodeCamp
 
@@ -68,7 +58,7 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 
 - [Full Stack Web Development Certification](#)
 
-## Courses
+## Courses <span id="course"></span>
 
 ### Udacity
 
@@ -89,7 +79,7 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 
 - [Shell Scripting Course](https://courses.linuxtrainingacademy.com/course/shell-scripting-discover-how-to-automate-command-line-tasks/)
 
-## Communities
+## Communities <span id="community"></span>
 
 - [freeCodeCamp Manila](https://www.facebook.com/groups/free.code.camp.manila/)  
 
@@ -99,6 +89,14 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 
   freeCodeCamp Antique is a community (study group) of software developers, enthusiasts, ICT students and instructors from the province of Antique, Philippines who loves to code. Learn to code at [https://www.freecodecamp.com/](https://www.freecodecamp.com/)
 
+## Contact Me <span id="contact"></span>
+
+- [GitHub](https://github.com/arantebw)
+- [freeCodeCamp](https://www.freecodecamp.org/arantebw)
+- [LinkedIn](https://www.linkedin.com/in/billyarante/)
+- [Twitter](https://twitter.com/arantebw)
+- [Glitch](https://glitch.com/@arantebw)
+
 ---
 
-Copyright (c) 2019 by Billy Arante
+Copyright (c) 2017-2020 by Billy Arante
