@@ -17,8 +17,8 @@ These are the projects I created using the [freeCodeCamp](https://www.freecodeca
 
 ### Responsive Web Design Certification Projects
 
-- [Build A Tribute Page](https://arantebw.github.io/build-a-tribute-page/)
-- [Build A Personal Portfolio Webpage](https://arantebw.github.io/build-a-personal-portfolio-webpage/)
+- [Build A Tribute Page](https://arantebw.github.io/tribute/)
+- [Build A Personal Portfolio Webpage](https://arantebw.github.io/portfolio/)
 
 ### APIs and Microservices Certification Projects
 
