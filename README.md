@@ -1,6 +1,6 @@
 # arantebw.github.io
 
-Hi! I'm Billy Arante, a software developer, and a community leader from the Philippines.
+Hi! I'm Billy Arante, a software developer from the Philippines.
 
 ## Contents
 
@@ -9,6 +9,7 @@ Hi! I'm Billy Arante, a software developer, and a community leader from the Phil
 - [Certifications](#cert)
 - [Crash Courses](#course)
 - [Communities](#community)
+- [Foreign Languages](#languages)
 - [Contact Me](#contact)
 
 ## freeCodeCamp Projects <span id="fcc"></span>
@@ -63,7 +64,7 @@ These are the projects I created during the 12-week intensive software developme
 ### Udacity
 
 - [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
-- [Wrinting READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+- [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 - [Make Your Own 2048](#)
 
 ### MongoDB University
@@ -88,6 +89,13 @@ These are the projects I created during the 12-week intensive software developme
 - [freeCodeCamp Antique](https://www.facebook.com/groups/free.code.camp.antique/)  
 
   freeCodeCamp Antique is a community (study group) of software developers, enthusiasts, ICT students and instructors from the province of Antique, Philippines who loves to code. Learn to code at [https://www.freecodecamp.com/](https://www.freecodecamp.com/)
+
+## Foreign Languages <span id="languages"></span>
+
+These are the foreign languages that I learned and/or currently learning to speak, read, and write aside from my mother tounge of Filipino.
+
+- [English (American)](#)
+- [Nihongo (Japanese)](#) learning-in-progress
 
 ## Contact Me <span id="contact"></span>
 
