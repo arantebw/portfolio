@@ -92,7 +92,7 @@ These are the projects I created during the 12-week intensive software developme
 
 ## Foreign Languages <span id="languages"></span>
 
-These are the foreign languages that I learned and/or currently learning to speak, read, and write aside from my mother tounge of Filipino.
+These are the foreign languages that I learned and/or currently learning to speak, read, and write aside from my mother tongue of Filipino.
 
 - [English (American)](#)
 - [Nihongo (Japanese)](#) learning-in-progress
