@@ -7,7 +7,7 @@ Hi! I'm Billy Arante, a software developer from the Philippines.
 - [freeCodeCamp Projects](#fcc)
 - [Zuitt (formerly Tuitt) Coding Bootcamp Projects](#zuitt)
 - [Certifications](#cert)
-- [Crash Courses](#course)
+- [Courses](#course)
 - [Communities](#community)
 - [Foreign Languages](#languages)
 - [Contact Me](#contact)
