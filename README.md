@@ -16,6 +16,16 @@ A portfolio project made during the Zuitt FCB (Free Coding Bootcamp) event.
 Made with: `HTML`, `CSS`, `Bootstrap`, `Google Fonts`, `GitHub Pages`  
 [website](https://arantebw.github.io/fcb-portfolio/index.html) &middot; [codebase](https://github.com/arantebw/fcb-portfolio)
 
+### Maze
+A random maze generator static website.  
+Made with: `HTML`, `CSS`, `JavaScript`, `GitHub Pages`  
+[website](https://arantebw.github.io/maze/index.html) &middot; [codebase](https://github.com/arantebw/maze)
+
+### Movie Fights <small>(work-in-progress)</small>
+A 2-movie comparison static website.  
+Made with: `HTML`, `CSS`, `JavaScript`, `GitHub Pages`  
+[website](https://arantebw.github.io/movie-fight/index.html) &middot; [codebase](https://github.com/arantebw/movie-fight)
+
 ## Zuitt Projects
 
 ### Billy Arante's Blog
@@ -24,17 +34,17 @@ My first capstone project at Zuitt (formerly Tuitt) Coding Bootcamp is a blog we
 Made with: `HTML`, `CSS`, `Bootstrap`, `Google Fonts`, `JavaScript`, `GitHub Pages`  
 [website](https://arantebw.github.io/csp1-blog/index.html) &middot; [codebase](#)
 
-### Beeer
+### Beeer <smalll>(work-in-progress)</small>
 
 My second capstone project at Zuitt (formerly Tuitt) Coding Bootcamp is an eCommerce web application.  
 Made with: `HTML`, `CSS`, `Bootstrap`, `Google Fonts`, `JavaSript`, `PHP`, `MySQL`  
-[website (work-in-progress)](#) &middot; [codebase](https://github.com/arantebw/csp2-ecommerce)
+[website](#) &middot; [codebase](https://github.com/arantebw/csp2-ecommerce)
 
-### Reoslack
+### Reoslack <small>(work-in-progress)</small>
 
 My third capstone project at Zuitt (formerly Tuitt) Coding Bootcamp is an instant messenger web application.  
 Made with: `HTML`, `CSS`, `Bootstrap`, `Google Fonts`, `JavaSript`, `PHP`, `Laravel`, `MySQL`  
-[website (work-in-progress)](#) &middot; [codebase](https://github.com/arantebw/csp3-instant-messenger)
+[website](#) &middot; [codebase](https://github.com/arantebw/csp3-instant-messenger)
 
 ---
 
