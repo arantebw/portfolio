@@ -6,20 +6,21 @@ Hi, I'm Billy Arante! A software developer and IT instructor from Antique, Phili
 
 - Notes  
   A collection of personal technical notes about software development, ethical hacking, stocks trading, and everything in between.  
-  [Website](https://arantebw.github.io/notes) | [Codebase](#)
+  [website](https://arantebw.github.io/notes) &middot; [codebase](#)
   
 ## Zuitt Projects
 
-- [csp1-blog](https://arantebw.github.io/csp1-blog/index.html)  
-  My first capstone project (billy arante's blog) at Zuitt (formerly Tuitt) Coding Bootcamp.
+- Billy Arante's Blog 
+  My first capstone project (billy arante's blog) at Zuitt (formerly Tuitt) Coding Bootcamp.  
+  [website](https://arantebw.github.io/csp1-blog/index.html) &middot; [codebase](#)
 
-- [csp2-ecommerce](#)  
+- Beeer 
   My second capstone project (beeer) at Zuitt (formerly Tuitt) Coding Bootcamp.  
-  **[work-in-progress]**
+  [website](#) &middot; [codebase](#)
 
-- [csp3-instant-messenger](#)  
+- Reoslack  
   My third capstone project (reoslack) at Zuitt (formerly Tuitt) Coding Bootcamp.  
-  **[work-in-progress]**
+  [website](#) &middot; [codebase](#)
 
 ---
 Copyright &copy; 2017-2021 by Billy Arante
