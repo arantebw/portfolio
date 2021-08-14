@@ -1,6 +1,6 @@
-# Billy Arante
+# arantebw.github.io
 
-Hi, I'm Billy! A software developer and IT instructor from Antique, Philippines.
+Hi, I'm Billy Arante! A software developer and IT instructor from Antique, Philippines.
 
 ## Personal Projects
 
