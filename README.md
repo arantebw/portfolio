@@ -12,6 +12,7 @@ Hi, I'm Billy Arante! A software developer and IT instructor from Antique, Phili
 
 - Billy Arante's Blog  
   My first capstone project (billy arante's blog) at Zuitt (formerly Tuitt) Coding Bootcamp.  
+  Made with: `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `GitHub Pages`
   [website](https://arantebw.github.io/csp1-blog/index.html) &middot; [codebase](#)
 
 - Beeer  
