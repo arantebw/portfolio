@@ -23,7 +23,7 @@ Made with: `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `GitHub Pages`
 ### Beeer  
 My second capstone project (beeer) at Zuitt (formerly Tuitt) Coding Bootcamp.  
 Made with: `HTML`, `CSS`, `Bootstrap`, `JavaSript`, `PHP`, `MySQL`  
-[website](#) &middot; [codebase](#)
+[website (work-in-progress)](#) &middot; [codebase](https://github.com/arantebw/csp2-ecommerce)
 
 ### Reoslack  
 My third capstone project (reoslack) at Zuitt (formerly Tuitt) Coding Bootcamp.  
