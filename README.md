@@ -4,10 +4,14 @@ Hi, I'm Billy Arante! A software developer and IT instructor from Antique, Phili
 
 ## Personal Projects
 
-- Notes  
-  A collection of personal technical notes about software development, ethical hacking, stocks trading, and everything in between.  
-  [website](https://arantebw.github.io/notes) &middot; [codebase](#)
-  
+### Notes  
+A collection of personal technical notes about software development, ethical hacking, stocks trading, and everything in between.  
+[website](https://arantebw.github.io/notes) &middot; [codebase](#)
+
+### FCB Portfolio  
+A portfolio project made during the Zuitt FCB (Free Coding Bootcamp) event.  
+[website](https://arantebw.github.io/fcb-portfolio/index.html) &middot; [codebase](https://github.com/arantebw/fcb-portfolio)
+
 ## Zuitt Projects
 
 ### Billy Arante's Blog  
