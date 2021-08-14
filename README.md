@@ -32,7 +32,7 @@ Made with: `HTML`, `CSS`, `Bootstrap`, `JavaSript`, `PHP`, `MySQL`
 
 My third capstone project (reoslack) at Zuitt (formerly Tuitt) Coding Bootcamp.  
 Made with: `HTML`, `CSS`, `Bootstrap`, `JavaSript`, `PHP`, `Laravel`, `MySQL`  
-[website](#) &middot; [codebase](https://github.com/arantebw/csp3-instant-messenger)
+[website (work-in-progress)](#) &middot; [codebase](https://github.com/arantebw/csp3-instant-messenger)
 
 ---
 
