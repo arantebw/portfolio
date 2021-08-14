@@ -5,8 +5,8 @@ Hi, I'm Billy Arante! A software developer and IT instructor from Antique, Phili
 ## Personal Projects
 
 - Notes  
-  A collection of personal technical notes about software development, ethical hacking, stocks trading, and everything in between.
-  [website](https://arantebw.github.io/notes) | [codebase](#)
+  A collection of personal technical notes about software development, ethical hacking, stocks trading, and everything in between.  
+  [Website](https://arantebw.github.io/notes) | [Codebase](#)
   
 ## Zuitt Projects
 
