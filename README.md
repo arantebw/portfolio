@@ -2,6 +2,8 @@
 
 Hi, I'm Billy Arante! A software developer and IT instructor from Antique, Philippines.
 
+---
+
 ## Personal Projects
 
 ### Maze
@@ -26,6 +28,8 @@ Made with: `HTML`, `CSS`, `JavaScript`, `GitHub Pages`
 A collection of personal technical notes about software development, ethical hacking, stocks trading, and everything in between.  
 Made with: `Markdown`, `GitHub Pages`  
 [website](https://arantebw.github.io/notes) &middot; [codebase](#)
+
+---
 
 ## Zuitt Projects
 
@@ -52,6 +56,8 @@ Made with: `HTML`, `CSS`, `Bootstrap`, `Google Fonts`, `JavaSript`, `PHP`, `Lara
 A portfolio project made during the Zuitt FCB (Free Coding Bootcamp) event.  
 Made with: `HTML`, `CSS`, `Bootstrap`, `Google Fonts`, `GitHub Pages`  
 [website](https://arantebw.github.io/fcb-portfolio/index.html) &middot; [codebase](https://github.com/arantebw/fcb-portfolio)
+
+---
 
 ## FreeCodeCamp Projects
 
