@@ -61,6 +61,16 @@ Made with: `HTML`, `CSS`, `Bootstrap`, `Google Fonts`, `GitHub Pages`
 
 ## FreeCodeCamp Projects
 
+### Responsive Web Design
+
+#### Build A Tribute Page  
+Made with: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `GitHub Pages`  
+[website](https://arantebw.github.io/tribute/index.html) &middot; [codebase](https://github.com/arantebw/tribute)
+
+#### Build A Personal Porfolio Webpage
+Made with: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `GitHub Pages`  
+[website](https://arantebw.github.io/portfolio/index.html) &middot; [codebase](https://github.com/arantebw/portfolio)
+
 ### APIs and Microservices
 
 #### Timestamp Microservice  
