@@ -4,6 +4,16 @@ Hi, I'm Billy Arante! A software developer and IT instructor from Antique, Phili
 
 ## Personal Projects
 
+### Maze
+A random maze generator static website.  
+Made with: `HTML`, `CSS`, `JavaScript`, `GitHub Pages`  
+[website](https://arantebw.github.io/maze/index.html) &middot; [codebase](https://github.com/arantebw/maze)
+
+### Movie Fights <small>(work-in-progress)</small>
+A 2-movie comparison static website.  
+Made with: `HTML`, `CSS`, `JavaScript`, `GitHub Pages`  
+[website](https://arantebw.github.io/movie-fight/index.html) &middot; [codebase](https://github.com/arantebw/movie-fight)
+
 ### Notes
 
 A collection of personal technical notes about software development, ethical hacking, stocks trading, and everything in between.  
@@ -15,16 +25,6 @@ Made with: `Markdown`, `GitHub Pages`
 A portfolio project made during the Zuitt FCB (Free Coding Bootcamp) event.  
 Made with: `HTML`, `CSS`, `Bootstrap`, `Google Fonts`, `GitHub Pages`  
 [website](https://arantebw.github.io/fcb-portfolio/index.html) &middot; [codebase](https://github.com/arantebw/fcb-portfolio)
-
-### Maze
-A random maze generator static website.  
-Made with: `HTML`, `CSS`, `JavaScript`, `GitHub Pages`  
-[website](https://arantebw.github.io/maze/index.html) &middot; [codebase](https://github.com/arantebw/maze)
-
-### Movie Fights <small>(work-in-progress)</small>
-A 2-movie comparison static website.  
-Made with: `HTML`, `CSS`, `JavaScript`, `GitHub Pages`  
-[website](https://arantebw.github.io/movie-fight/index.html) &middot; [codebase](https://github.com/arantebw/movie-fight)
 
 ## Zuitt Projects
 
@@ -45,6 +45,8 @@ Made with: `HTML`, `CSS`, `Bootstrap`, `Google Fonts`, `JavaSript`, `PHP`, `MySQ
 My third capstone project at Zuitt (formerly Tuitt) Coding Bootcamp is an instant messenger web application.  
 Made with: `HTML`, `CSS`, `Bootstrap`, `Google Fonts`, `JavaSript`, `PHP`, `Laravel`, `MySQL`  
 [website](#) &middot; [codebase](https://github.com/arantebw/csp3-instant-messenger)
+
+## FreeCodeCamp Projects
 
 ---
 
