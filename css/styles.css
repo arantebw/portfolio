@@ -9,6 +9,7 @@
 body {
 	font-family: 'Prompt', sans-serif;
   color: #17202A;
+  background-color: #F7F9F9;
 }
 
 #banner {
@@ -19,9 +20,9 @@ body {
 
 main {
   padding: 25px;
-  background-color: #F7F9F9;
 }
 
 footer {
   padding: 25px;
+  text-align: center;
 }
