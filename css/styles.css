@@ -19,7 +19,7 @@ body {
 }
 
 #banner section {
-  width: 75%;
+  width: 50%;
   margin: 0 auto;
 }
 
@@ -28,8 +28,19 @@ main {
 }
 
 main > div {
-  width: 75%;
+  width: 50%;
   margin: 0 auto;
+}
+
+main > div > section {
+  margin-bottom: 25px;
+}
+
+.project-item {
+  margin-bottom: 15px;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 10px;
 }
 
 footer {
