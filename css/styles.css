@@ -18,8 +18,18 @@ body {
   padding: 25px;
 }
 
+#banner section {
+  width: 75%;
+  margin: 0 auto;
+}
+
 main {
   padding: 25px;
+}
+
+main > div {
+  width: 75%;
+  margin: 0 auto;
 }
 
 footer {
