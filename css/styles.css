@@ -1,9 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Prompt:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Architects Daughter', cursive;
+  font-weight: normal;
+}
+h2, h3, h4, h5, h6 {
+  margin-bottom: 8px;
 }
 
 body {
@@ -18,8 +26,43 @@ body {
   padding: 25px;
 }
 
+#banner section {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#brand-name {
+  font-size: 72px;
+  line-height: 1;
+  letter-spacing: -1px;
+  margin-bottom: 0.2em;
+}
+
+#brand-name + p {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 26px;
+  line-height: 1.3;
+  color: #9ddcff;
+}
+
 main {
   padding: 25px;
+}
+
+main > div {
+  width: 50%;
+  margin: 0 auto;
+}
+
+main > div > section {
+  margin-bottom: 25px;
+}
+
+.project-item {
+  margin-bottom: 15px;
+  margin-left: 50px;
+  padding: 15px;
+  border-left: 10px solid #e9e9e9;
 }
 
 footer {
