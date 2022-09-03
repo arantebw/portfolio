@@ -21,7 +21,7 @@ body {
 }
 
 #banner {
-  background-color: #0033FF;
+  background-color: #9A2A2A;
   color: white;
   padding: 25px;
 }
@@ -42,7 +42,7 @@ body {
   font-family: 'Architects Daughter', cursive;
   font-size: 26px;
   line-height: 1.3;
-  color: #9ddcff;
+  color: #FFF;
 }
 
 main {
