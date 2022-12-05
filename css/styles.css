@@ -21,7 +21,7 @@ body {
 }
 
 #banner {
-  background-color: #9A2A2A;
+  background: linear-gradient(45deg, red, blue);
   color: white;
   padding: 25px;
 }
