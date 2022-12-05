@@ -68,6 +68,15 @@ main > div > section {
 }
 
 .project-name {
-  color: #9A2A2A;
+  color: red;
   font-weight: bold;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  border-bottom: 1px dotted blue;
+}
+a:hover {
+  border-bottom: 1px solid blue;
 }
