@@ -36,6 +36,8 @@ body {
   line-height: 1;
   letter-spacing: -1px;
   margin-bottom: 0.2em;
+  font-weight: bold;
+  letter-spacing: 2px;
 }
 
 #brand-name + p {
