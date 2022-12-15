@@ -91,3 +91,23 @@ a:hover {
   width: 150px;
   border-radius: 50%;
 }
+
+hr {
+  width: 60%;
+  margin: 0 auto;
+}
+
+footer {
+  padding: 24px;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer > div {
+  margin-bottom: 8px;
+}
+
+footer a {
+  margin-right: 16px;
+  border-bottom: none;
+}
