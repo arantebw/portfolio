@@ -1,352 +1,54 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>A Web Developer Portfolio of Billy Arante</title>
-    <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Billy Arante - Junior Web Developer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css/styles.css" type="text/css" />
   </head>
   <body>
-    <header id="banner">
-      <section>
-        <div>
-          <img id="profile-img" src="./images/me.jpeg" alt="Billy Arante's Zuitt avatar"/>
-        </div>
-        <div>
-          <h1 id="brand-name">Billy Arante</h1>
-          <p>Web Developer from Antique, Philippines</p>
-        </div>
-      </section>
+    <header>
+      <nav id="left-side">
+        <a class="nav-link" href="./index.html">
+          <i class="fa-solid fa-house"></i> Home
+        </a>
+        <a class="nav-link" href="./projects.html">
+          <i class="fa-solid fa-folder-tree"></i> Projects
+        </a>
+      </nav>
+      <nav id="right-side">
+        <a class="nav-link" href="https://github.com/arantebw">
+          <i class="fa-brands fa-github"></i> Github
+        </a>
+      </nav>
     </header>
-
-    <main>
+    <main id="content">
       <div>
-        <section>
-          <h2>Personal Projects</h2>
-
-          <h4 class="project-name">Techblogs</h4>
-          <article class="project-item">
-            <p>
-              A personal tech blog about computer programming, open-source
-              software, web development, and other stuff that I deeply think
-              and care about.
-            </p>
-            <p>
-              Made with: <span>JavaScript</span>, <span>React</span>,
-              <span>Gatsby</span>, <span>GraphQL</span>, <span>Markdown</span>,
-              <span>JSX</span>
-            </p>
-            <p>
-              <a href="https://techblogs.gatsbyjs.io" target="_blank">website</a>
-              &middot;
-              <a href="https://github.com/arantebw/techblogs" target="_blank"
-                >codebase</a
-              >
-            </p>
-          </article>
-
-          <h4 class="project-name">Tasks</h4>
-          <article class="project-item">
-            <p>
-              My personal single-page application implementation of Google
-              Tasks -- IMO is a simple but very useful app.
-            </p>
-            <p>
-              Made with: <span>JavaScript</span>, <span>React</span>,
-              <span>Vite</span>, <span>Local Storage</span>, <span>JSX</span>
-            </p>
-            <p>
-              <a href="https://arantebw.github.io/tasks" target="_blank">website</a>
-              &middot;
-              <a href="https://github.com/arantebw/tasks" target="_blank"
-                >codebase</a
-              >
-            </p>
-          </article>
-
-          <h4 class="project-name">Maze</h4>
-          <article class="project-item">
-            <p>A random maze generator static website.</p>
-            <p>
-              Made with: <span>HTML</span>, <span>CSS</span>,
-              <span>JavaScript</span>, <span>GitHub Pages</span>
-            </p>
-            <p>
-              <a
-                href="https://arantebw.github.io/maze/index.html"
-                target="_blank"
-                >website</a
-              >
-              &middot;
-              <a href="https://github.com/arantebw/maze" target="_blank"
-                >codebase</a
-              >
-            </p>
-          </article>
-          <h4 class="project-name">Timer In Seconds</h4>
-          <article class="project-item">
-            <p>A simple timer in seconds on the web.</p>
-            <p>
-              Made with: <span>HTML</span>, <span>CSS</span>,
-              <span>JavaScript</span>, <span>GitHub Pages</span>
-            </p>
-            <p>
-              <a
-                href="https://arantebw.github.io/timer/index.html"
-                target="_blank"
-                >website</a
-              >
-              &middot;
-              <a href="https://github.com/arantebw/timer" target="_blank"
-                >codebase</a
-              >
-            </p>
-          </article>
-        </section>
-
-        <section>
-          <h2>Zuitt Projects</h2>
-
-          <h4 class="project-name">Billy Arante's Blog</h4>
-          <article class="project-item">
-            <p>
-              My first capstone project at Zuitt (formerly Tuitt) Coding
-              Bootcamp is a blog website template.
-            </p>
-            <p>
-              Made with: <span>HTML</span>, <span>CSS</span>,
-              <span>JavaScript</span>, <span>GitHub Pages</span>,
-              <span>Bootstrap</span>, <span>Google Fonts</span>
-            </p>
-            <p>
-              <a
-                href="https://arantebw.github.io/csp1-blog/index.html"
-                target="_blank"
-                >website</a
-              >
-              &middot;
-              <a href="https://github.com/arantebw/csp1-blog" target="_blank"
-                >codebase</a
-              >
-            </p>
-          </article>
-
-          <h4 class="project-name">Kraff Beeer</h4>
-          <article class="project-item">
-            <p>
-              My second capstone project at Zuitt (formerly Tuitt) Coding
-              Bootcamp is an eCommerce web application.
-            </p>
-            <p>
-              Made with: <span>HTML</span>, <span>CSS</span>,
-              <span>JavaScript</span>, <span>GitHub Pages</span>,
-              <span>Bootstrap</span>, <span>Google Fonts</span>,
-              <span>PHP</span>, <span>MySQL</span>
-            </p>
-            <p>
-              <a
-                href="https://github.com/arantebw/csp2-ecommerce"
-                target="_blank"
-                >codebase</a
-              >
-            </p>
-          </article>
-
-          <h4 class="project-name">Reoslack</h4>
-          <article class="project-item">
-            <p>
-              My third capstone project at Zuitt (formerly Tuitt) Coding
-              Bootcamp is an instant messenger web application.
-            </p>
-            <p>
-              Made with: <span>HTML</span>, <span>CSS</span>,
-              <span>JavaScript</span>, <span>GitHub Pages</span>,
-              <span>Bootstrap</span>, <span>Google Fonts</span>,
-              <span>PHP</span>, <span>MySQL</span>, <span>Laravel</span>
-            </p>
-            <p>
-              <a
-                href="https://github.com/arantebw/csp3-instant-messenger"
-                target="_blank"
-                >codebase</a
-              >
-            </p>
-          </article>
-
-          <h4 class="project-name">FCB Portfolio</h4>
-          <article class="project-item">
-            <p>
-              A portfolio project made during the Zuitt FCB (Free Coding
-              Bootcamp) event.
-            </p>
-            <p>
-              Made with: <span>HTML</span>, <span>CSS</span>,
-              <span>GitHub Pages</span>, <span>Bootstrap</span>,
-              <span>Google Fonts</span>
-            </p>
-            <p>
-              <a
-                href="https://arantebw.github.io/fcb-portfolio/index.html"
-                target="_blank"
-                >website</a
-              >
-              &middot;
-              <a
-                href="https://github.com/arantebw/fcb-portfolio"
-                target="_blank"
-                >codebase</a
-              >
-            </p>
-          </article>
-        </section>
-
-        <section>
-          <h2>FreeCodeCamp Projects</h2>
-          <div>
-            <h3>Responsive Web Design</h3>
-
-            <h4 class="project-name">Survey Form</h4>
-            <article class="project-item">
-              <p>A survey form for the Nella Xam Store of my relatives.</p>
-              <p>
-                Made with: <span>HTML</span>, <span>CSS</span>,
-                <span>GitHub Pages</span>, <span>Bootstrap</span>,
-                <span>Google Fonts</span>
-              </p>
-              <p>
-                <a
-                  href="https://arantebw.github.io/survey/index.html"
-                  target="_blank"
-                  >website</a
-                >
-                &middot;
-                <a href="https://github.com/arantebw/survey" target="_blank"
-                  >codebase</a
-                >
-              </p>
-            </article>
-
-            <h4 class="project-name">Tribute Page</h4>
-            <article class="project-item">
-              <p>
-                Made with: <span>HTML</span>, <span>CSS</span>,
-                <span>GitHub Pages</span>, <span>Bootstrap</span>,
-                <span>Google Fonts</span>
-              </p>
-              <p>
-                <a
-                  href="https://arantebw.github.io/tribute/index.html"
-                  target="_blank"
-                  >website</a
-                >
-                &middot;
-                <a href="https://github.com/arantebw/tribute" target="_blank"
-                  >codebase</a
-                >
-              </p>
-            </article>
-
-            <h4 class="project-name">Personal Porfolio Webpage</h4>
-            <article class="project-item">
-              <p>
-                Made with: <span>HTML</span>, <span>CSS</span>,
-                <span>GitHub Pages</span>, <span>Bootstrap</span>,
-                <span>Google Fonts</span>
-              </p>
-              <p>
-                <a
-                  href="https://arantebw.github.io/portfolio/index.html"
-                  target="_blank"
-                  >website</a
-                >
-                &middot;
-                <a href="https://github.com/arantebw/portfolio" target="_blank"
-                  >codebase</a
-                >
-              </p>
-            </article>
-          </div>
-          <div>
-            <h3>JavaScript Algorithms and Data Structures</h3>
-
-            <h4 class="project-name">Palindrome Checker</h4>
-            <article class="project-item">
-              <p>It checks if the input entered is a palindrome or not.</p>
-              <p>
-                Made with: <span>HTML</span>, <span>CSS</span>,
-                <span>JavaScript</span>, <span>GitHub Pages</span>,
-                <span>Bootstrap</span>, <span>Google Fonts</span>
-              </p>
-              <p>
-                <a
-                  href="https://arantebw.github.io/palindrome/index.html"
-                  target="_blank"
-                  >website</a
-                >
-                &middot;
-                <a href="https://github.com/arantebw/palindrome" target="_blank"
-                  >codebase</a
-                >
-              </p>
-            </article>
-
-            <h4 class="project-name">Roman Numeral Converter</h4>
-            <article class="project-item">
-              <p>
-                It converts any decimal values to its roman numeral equivalent.
-              </p>
-              <p>
-                Made with: <span>HTML</span>, <span>CSS</span>,
-                <span>JavaScript</span>, <span>GitHub Pages</span>,
-                <span>Bootstrap</span>, <span>Google Fonts</span>
-              </p>
-              <p>
-                <a
-                  href="https://arantebw.github.io/romans/index.html"
-                  target="_blank"
-                  >website</a
-                >
-                &middot;
-                <a href="https://github.com/arantebw/romans" target="_blank"
-                  >codebase</a
-                >
-              </p>
-            </article>
-
-            <h4 class="project-name">Caesars Cipher</h4>
-            <article class="project-item">
-              <p>It encodes/decodes a string input using the ROT13 cipher.</p>
-              <p>
-                Made with: <span>HTML</span>, <span>CSS</span>,
-                <span>JavaScript</span>, <span>GitHub Pages</span>,
-                <span>Bootstrap</span>, <span>Google Fonts</span>
-              </p>
-              <p>
-                <a
-                  href="https://arantebw.github.io/caesars/index.html"
-                  target="_blank"
-                  >website</a
-                >
-                &middot;
-                <a href="https://github.com/arantebw/caesars" target="_blank"
-                  >codebase</a
-                >
-              </p>
-            </article>
-          </div>
-        </section>
+        <img
+          id="my-avatar"
+          src="./images/me.jpg"
+          alt="This is my amazing avatar."
+        />
+        <h1 id="my-name">Billy Arante</h1>
+        <h2>Junior Web Developer</h2>
+        <p>
+          I am computer programmer, open-source advocate, web developer, and a
+          tech blogger.
+        </p>
       </div>
     </main>
-    <hr>
     <footer>
-      <div>
-        <p>Made with <img src="images/heart-solid.svg" alt="heart icon" height="14px"> and <img src="./images/pizza-slice-solid.svg" alt="sliced pizza icon" height="14px"> from the Philippines <a href="https://arantebw.github.io">Billy Arante</a></p>
-      </div>
-      <div>
-        <a href="https://freecodecamp.org/arantebw">FreeCodeCamp</a>
-        <a href="https://linkedin.com/in/arantebw">LinkedIn</a>
-        <a href="https://twitter.com/arantebw">Twitter</a>
-      </div>
-    </footer>
+      <section>
+        <a href="https://www.linkedin.com/in/arantebw">
+          <i class="fa-brands fa-linkedin"></i> LinkedIn
+        </a>
+        <a href="https://freecodecamp.org/arantebw">
+          <i class="fa-brands fa-free-code-camp"></i>
+          freeCodeCamp
+        </a>
+      </section>
+    </footer> 
   </body>
 </html>

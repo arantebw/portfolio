@@ -1,113 +1,109 @@
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Prompt:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kaushan+Script&display=swap");
 
+/* CSS reset */
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Architects Daughter', cursive;
-  font-weight: normal;
-}
-h2, h3, h4, h5, h6 {
-  margin-bottom: 8px;
+html,
+body {
+  width: 100%;
+  height: 100vh;
+  position: relative;
 }
 
 body {
-	font-family: 'Prompt', sans-serif;
-  color: #17202A;
-  background-color: #F7F9F9;
+  background-color: #8bbccc;
+  font-family: "Bree Serif", serif;
+  color: #000000;
 }
 
-#banner {
-  background: linear-gradient(45deg, red, blue);
-  color: white;
-  padding: 25px;
-}
-
-#banner section {
-  width: 50%;
-  margin: 0 auto;
+header {
   display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-}
-#banner section div {
-  height: content;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px;
 }
 
-#brand-name {
-  font-size: 72px;
-  line-height: 1;
-  letter-spacing: -1px;
-  margin-bottom: 0.2em;
-  font-weight: bold;
-  letter-spacing: 2px;
-}
-
-#brand-name + p {
-  font-family: 'Architects Daughter', cursive;
-  font-size: 26px;
-  line-height: 1.3;
-  color: #FFF;
-}
-
-main {
-  padding: 25px;
-}
-
-main > div {
-  width: 50%;
-  margin: 0 auto;
-}
-
-main > div > section {
-  margin-bottom: 25px;
-}
-
-.project-item {
-  margin-bottom: 15px;
-  margin-left: 50px;
-  padding: 15px;
-  border-left: 10px solid #e9e9e9;
-}
-
-.project-name {
-  color: red;
-  font-weight: bold;
-}
-
-a {
-  color: blue;
-  text-decoration: none;
-  border-bottom: 1px dotted blue;
-}
-a:hover {
-  border-bottom: 1px solid blue;
-}
-
-#profile-img {
+#my-avatar {
   width: 150px;
   border-radius: 50%;
 }
 
-hr {
-  width: 60%;
-  margin: 0 auto;
+#content {
+  text-align: center;
+  height: 100%;
+}
+
+#my-name {
+  font-family: "Kaushan Script", cursive;
+  color: #5c2e7e;
+}
+
+#left-side {
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+}
+
+a {
+  color: #5c2e7e;
+  text-decoration: none;
 }
 
 footer {
-  padding: 24px;
+  position: absolute;
+  bottom: 0;
+  width: 100vw; /* vw -> viewport width */
+  padding: 16px;
+}
+footer > section {
+  display: flex;
+  justify-content: space-around;
+}
+
+#content div {
+  width: 100vw; /* vw -> viewport width */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 16px;
+}
+
+/* Projects page */
+
+#hero-banner {
+  background: linear-gradient(150deg, red, blue, magenta);
+}
+#hero-banner > div {
+  width: 100vw; /* vw -> viewport width */
+  display: flex;
+  column-gap: 16px;
+  padding: 16px;
+
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+  #hero-banner > div {
+    width: 50%;
+    margin: 0 auto;
+  }
+}
+
+#hero-banner h1,
+#hero-banner h2 {
+  color: white;
+}
+#hero-banner h1 {
+  font-size: 2rem; /* 1rem -> 16px */
+}
+#hero-banner h2 {
+  font-size: 1.1rem; /* customize this value to align the text in single row */
+}
+h3 {
   text-align: center;
-  font-size: 14px;
-}
-
-footer > div {
-  margin-bottom: 8px;
-}
-
-footer a {
-  margin-right: 16px;
-  border-bottom: none;
+  font-size: 32px;
 }
