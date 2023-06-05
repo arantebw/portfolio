@@ -1,5 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kaushan+Script&display=swap");
 
+:root {
+  --black: #181818;
+  --purple: #8758ff;
+  --blue: #58b8e4;
+  --gray: #f2f2f2;
+}
+
 /* CSS reset */
 * {
   padding: 0;
@@ -15,9 +22,9 @@ body {
 }
 
 body {
-  background-color: #8bbccc;
+  background-color: var(--black);
   font-family: "Bree Serif", serif;
-  color: #000000;
+  color: var(--gray);
 }
 
 header {
@@ -38,16 +45,16 @@ header {
 }
 
 #my-name {
-  color: #5c2e7e;
   text-align: left;
 }
 #my-name + h2 {
   font-size: 23px;
   text-align: left;
   margin-bottom: 24px;
+  color: var(--purple);
 }
 #my-name + h2 > a {
-  color: black;
+  color: var(--purple);
 }
 #my-name + h2 + p {
   text-align: left;
@@ -61,7 +68,7 @@ header {
 }
 
 a {
-  color: #5c2e7e;
+  color: var(--blue);
   text-decoration: none;
 }
 
@@ -83,6 +90,10 @@ footer > section {
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 16px;
+}
+
+span.role {
+  color: var(--gray);
 }
 
 /* Projects page */
