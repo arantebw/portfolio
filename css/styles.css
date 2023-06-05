@@ -38,8 +38,20 @@ header {
 }
 
 #my-name {
-  font-family: "Kaushan Script", cursive;
   color: #5c2e7e;
+  text-align: left;
+}
+#my-name + h2 {
+  font-size: 23px;
+  text-align: left;
+  margin-bottom: 24px;
+}
+#my-name + h2 > a {
+  color: black;
+}
+#my-name + h2 + p {
+  text-align: left;
+  font-size: 40px;
 }
 
 #left-side {
