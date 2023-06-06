@@ -79,6 +79,19 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    row-gap: 8px;
+
+    & > a.nav-link {
+      display: flex;
+      align-items: center;
+      column-gap: 8px;
+
+      & > div:first-child {
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+      }
+    }
   }
 }
 
