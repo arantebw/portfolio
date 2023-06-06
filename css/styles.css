@@ -41,23 +41,37 @@ a.nav-link {
 main#content {
   position: relative;
   text-align: center;
+
+  & > div > section {
+    display: flex;
+    column-gap: 16px;
+  }
+
+  & img {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: 2px solid var(--gray);
+    padding: 3px;
+  }
+
+  & > div > p {
+    text-align: left;
+    font-size: 39px;
+  }
 }
 
 #my-name {
   text-align: left;
 }
 #my-name + h2 {
-  font-size: 22px;
+  font-size: 16px;
   text-align: left;
   margin-bottom: 24px;
   color: var(--purple);
 }
 #my-name + h2 > a {
   color: var(--purple);
-}
-#my-name + h2 + p {
-  text-align: left;
-  font-size: 39px;
 }
 
 #nav-items {
@@ -100,7 +114,7 @@ footer {
   }
 }
 
-#content div {
+#content > div {
   width: 100vw; /* vw -> viewport width */
   padding: 24px;
 }
