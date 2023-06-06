@@ -64,6 +64,11 @@ main#content {
   display: flex;
   flex-direction: row;
   column-gap: 24px;
+
+  & a {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
 }
 
 a {
