@@ -102,11 +102,14 @@ footer {
     flex-direction: column;
     justify-content: space-around;
     row-gap: 8px;
+    max-width: 768px;
+    margin: 0 auto;
 
     & > a.nav-link {
       display: flex;
       align-items: center;
       column-gap: 8px;
+      width: fit-content;
 
       & > div:first-child {
         width: 32px;
