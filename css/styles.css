@@ -45,6 +45,7 @@ main#content {
   & > div > section {
     display: flex;
     column-gap: 16px;
+    justify-content: center;
   }
 
   & img {
