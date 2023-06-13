@@ -59,6 +59,8 @@ main#content {
   & > div > p {
     text-align: left;
     font-size: 39px;
+    max-width: 768px;
+    margin: 0 auto;
   }
 }
 
