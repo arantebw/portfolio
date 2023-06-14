@@ -53,8 +53,7 @@
         justify-content: center;
       }
 
-      /* tablet device */
-      @media (min-width: 426px) and (max-width: 768px) {
+      @media (min-width: 768px) {
         section#projects {
           display: grid;
           grid-template-columns: 1fr 1fr;
@@ -64,36 +63,22 @@
         }
       }
 
-      /* laptop device */
-      @media (min-width: 769px) {
+      @media (min-width: 1024px) {
         section#projects {
-          display: grid;
           grid-template-columns: 1fr 1fr 1fr;
-          grid-gap: 24px;
-          margin-right: 24px;
-          margin-left: 24px;
         }
       }
 
-      /* large laptop device */
-      @media (min-width: 1025px) {
-        section.project {
-          width: 23.5%; /* 4 projects per row */
-        }
-      }
-
-      /* 4k device */
-      @media (min-width: 2560px) {
-        /* 5 projects per row */
-        /* add left and right space to center all of the project */
-        section.project {
-          width: 18.4%;
-        }
-
+      @media (min-width: 1440px) {
         section#projects {
-          width: 70%;
-          margin-left: 15%;
-          margin-right: 15%;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+        }
+      }
+
+      @media screen and (min-width: 2560px) {
+        section#projects {
+          max-width: 1440px;
+          margin: 0 auto;
         }
       }
     </style>
