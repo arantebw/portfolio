@@ -18,6 +18,7 @@ const fetchProjects = async () => {
     // create the project's snapshot image
     const img = document.createElement("img");
     img.setAttribute("src", project.snapshot);
+    img.setAttribute("alt", project.projectName);
 
     // create the project header
     const h3 = document.createElement("h3");
