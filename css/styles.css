@@ -103,7 +103,7 @@ footer {
     flex-direction: column;
     justify-content: space-around;
     row-gap: 8px;
-    max-width: 768px;
+    max-width: 1440px;
     margin: 0 auto;
 
     & > a.nav-link {
