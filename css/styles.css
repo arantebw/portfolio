@@ -66,15 +66,16 @@ main#content {
 
 #my-name {
   text-align: left;
+  color: var(--purple);
 }
 #my-name + h2 {
   font-size: 16px;
   text-align: left;
   margin-bottom: 24px;
-  color: var(--purple);
+  color: var(--white);
 }
 #my-name + h2 > a {
-  color: var(--purple);
+  color: var(--white);
 }
 
 #nav-items {
@@ -162,4 +163,5 @@ span.role {
 h3 {
   text-align: center;
   font-size: 32px;
+  color: var(--purple);
 }
