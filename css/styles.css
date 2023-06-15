@@ -165,3 +165,7 @@ h3 {
   font-size: 32px;
   color: var(--purple);
 }
+
+#projects-header {
+  color: var(--white);
+}
