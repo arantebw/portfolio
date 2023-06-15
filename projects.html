@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="icon" href="./images/billy_arante_purple_team.ico" sizes="any" />
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -15,7 +16,9 @@
       }
 
       main#content + h3 {
+        margin-right: 24px;
         margin-bottom: 24px;
+        margin-left: 24px;
       }
 
       section.project > img {
@@ -50,8 +53,11 @@
         justify-content: center;
       }
 
-      /* tablet device */
-      @media (min-width: 426px) and (max-width: 768px) {
+      footer > section {
+        max-width: 1440px;
+      }
+
+      @media (min-width: 768px) {
         section#projects {
           display: grid;
           grid-template-columns: 1fr 1fr;
@@ -59,38 +65,33 @@
           margin-right: 24px;
           margin-left: 24px;
         }
+
+        main#content + h3 {
+          text-align: left;
+        }
       }
 
-      /* laptop device */
-      @media (min-width: 769px) {
+      @media (min-width: 1024px) {
         section#projects {
-          display: grid;
           grid-template-columns: 1fr 1fr 1fr;
-          grid-gap: 24px;
-          margin-right: 24px;
-          margin-left: 24px;
         }
       }
 
-      /* large laptop device */
-      @media (min-width: 1025px) {
-        section.project {
-          width: 23.5%; /* 4 projects per row */
-        }
-      }
-
-      /* 4k device */
-      @media (min-width: 2560px) {
-        /* 5 projects per row */
-        /* add left and right space to center all of the project */
-        section.project {
-          width: 18.4%;
-        }
-
+      @media (min-width: 1440px) {
         section#projects {
-          width: 70%;
-          margin-left: 15%;
-          margin-right: 15%;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+        }
+      }
+
+      @media screen and (min-width: 2560px) {
+        section#projects {
+          max-width: 1440px;
+          margin: 0 auto;
+        }
+
+        main#content + h3 {
+          max-width: 1440px;
+          margin: 0 auto 24px;;
         }
       }
     </style>
