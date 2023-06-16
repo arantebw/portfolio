@@ -200,11 +200,19 @@ p.description {
 ul.techs {
   list-style: none;
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 16px 16px 0;
+  padding-bottom: 16px;
+  font-size: 12px;
+  column-gap: 8px;
+  row-gap: 8px;
+  border-bottom: 1px dotted var(--border-color);
 }
 ul.techs > li {
-  display: inline-block;
+  width: fit-content;
+  padding: 4px;
+  border: 1px solid var(--blue);
+  color: var(--blue);
 }
-ul.techs > li:not(:last-child)::after {
-  content: ", ";
-}
-
