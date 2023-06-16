@@ -193,10 +193,6 @@ section.project > img {
   object-fit: cover;
 }
 
-p.description {
-  padding: 16px;
-}
-
 ul.techs {
   list-style: none;
   text-align: center;
@@ -215,4 +211,19 @@ ul.techs > li {
   padding: 4px;
   border: 1px solid var(--blue);
   color: var(--blue);
+}
+
+p.description {
+  margin: 16px 16px 0;
+  padding-bottom: 16px;
+  border-bottom: 1px dotted var(--border-color);
+}
+
+a.websiteUrl {
+  margin: 16px;
+  text-align: center;
+  font-size: 14px;
+}
+a.websiteUrl > i {
+  margin-left: 8px;
 }

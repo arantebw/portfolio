@@ -49,11 +49,23 @@ const fetchProjects = async () => {
       const descriptionText = document.createTextNode(project.description);
       descriptionPara.appendChild(descriptionText);
 
+      // create the visit website link
+      const websiteLink = document.createElement("a");
+      websiteLink.setAttribute("class", "websiteUrl");
+      websiteLink.setAttribute("href", project.websiteUrl);
+      websiteLink.setAttribute("target", "_blank");
+      const websiteLinkText = document.createTextNode("Visit Website");
+      websiteLink.appendChild(websiteLinkText);
+      const gotoIcon = document.createElement("i");
+      gotoIcon.setAttribute("class", "fa-sharp fa-solid fa-arrow-up-right-from-square");
+      websiteLink.appendChild(gotoIcon);
+
       // append the elements to the project's section
       sectionProject.appendChild(img);
       sectionProject.appendChild(h3);
       sectionProject.appendChild(ul);
       sectionProject.appendChild(descriptionPara);
+      sectionProject.appendChild(websiteLink);
 
       // append the a new project to the projects container
       projectsContainer.appendChild(sectionProject);
