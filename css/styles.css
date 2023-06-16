@@ -5,6 +5,7 @@
   --purple: #8758ff;
   --blue: #58b8e4;
   --gray: #f2f2f2;
+  --border-color: rgba(255, 255, 255, 0.25);
 }
 
 /* CSS reset */
@@ -160,12 +161,50 @@ span.role {
 #hero-banner h2 {
   font-size: 1.1rem; /* customize this value to align the text in single row */
 }
-h3 {
-  text-align: center;
-  font-size: 32px;
-  color: var(--purple);
-}
 
 #projects-header {
   color: var(--white);
 }
+
+/*
+ *
+ * Projects page
+ *
+ */
+
+section.project {
+  border: 1px dotted var(--border-color);
+  display: flex;
+  flex-direction: column;
+}
+section.project > h3 {
+  text-align: center;
+  font-size: 2rem;
+  line-height: 2rem;
+  color: var(--purple);
+  margin: 16px 16px 0;
+  padding-bottom: 16px;
+  border-bottom: 1px dotted var(--border-color);
+}
+
+section.project > img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+p.description {
+  padding: 16px;
+}
+
+ul.techs {
+  list-style: none;
+  text-align: center;
+}
+ul.techs > li {
+  display: inline-block;
+}
+ul.techs > li:not(:last-child)::after {
+  content: ", ";
+}
+
