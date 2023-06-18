@@ -227,3 +227,51 @@ a.websiteUrl {
 a.websiteUrl > i {
   margin-left: 8px;
 }
+
+section#projects,
+main#content + h3 {
+  margin: 0 auto;
+}
+
+main#content + h3 {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+@media (min-width: 768px) {
+  section#projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 24px;
+  }
+
+  main#content + h3 {
+    text-align: left;
+  }
+}
+
+@media (min-width: 1024px) {
+  section#projects {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (min-width: 1440px) {
+  section#projects {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    max-width: 1440px;
+  }
+
+  main#content + h3 {
+    max-width: 1440px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1440px) {
+  section#projects,
+  main#content + h3 {
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+}
