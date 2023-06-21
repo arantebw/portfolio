@@ -180,7 +180,7 @@ section.project {
 }
 section.project > h3 {
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height: 2rem;
   margin: 16px 16px 0;
   padding-bottom: 16px;
@@ -240,6 +240,9 @@ main#content + h3 {
   font-size: 1.5rem;
   text-align: center;
   margin-bottom: 24px;
+  background: -webkit-linear-gradient(90deg, violet, var(--purple));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 @media (min-width: 768px) {
