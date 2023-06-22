@@ -285,3 +285,15 @@ main#content + h3 {
     padding-left: 24px;
   }
 }
+
+main#content > div {
+  padding-bottom: 0;
+}
+
+footer {
+  position: initial;
+}
+
+section#hero-banner > div {
+  justify-content: center;
+}
