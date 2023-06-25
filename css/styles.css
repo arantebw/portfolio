@@ -194,7 +194,6 @@ section.project > h3 {
   line-height: 2rem;
   margin: 16px 16px 0;
   padding-bottom: 16px;
-  border-bottom: 1px dotted var(--border-color);
   background: -webkit-linear-gradient(90deg, violet, var(--purple));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -204,6 +203,12 @@ section.project > img.thumbnail {
   height: 250px;
   object-fit: cover;
   border-radius: 5px 5px 0 0;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
 
 ul.techs {
@@ -217,7 +222,6 @@ ul.techs {
   font-size: 12px;
   column-gap: 8px;
   row-gap: 8px;
-  border-bottom: 1px dotted var(--border-color);
 }
 ul.techs > li {
   width: fit-content;
@@ -229,7 +233,6 @@ ul.techs > li {
 p.description {
   margin: 16px 16px 0;
   padding-bottom: 16px;
-  border-bottom: 1px dotted var(--border-color);
 }
 
 a.websiteUrl {

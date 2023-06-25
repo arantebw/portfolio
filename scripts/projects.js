@@ -31,6 +31,8 @@ const fetchProjects = async () => {
       const h3Text = document.createTextNode(project.projectName);
       h3.appendChild(h3Text);
 
+      const hr1 = document.createElement("hr");
+
       // create the project's made with items
       const ul = document.createElement("ul");
       ul.setAttribute("class", "techs");
@@ -43,6 +45,8 @@ const fetchProjects = async () => {
           ul.appendChild(li);
         });
       }
+
+      const hr2 = document.createElement("hr");
 
       // create the description paragraph
       const descriptionPara = document.createElement("p");
@@ -64,7 +68,9 @@ const fetchProjects = async () => {
       // append the elements to the project's section
       sectionProject.appendChild(img);
       sectionProject.appendChild(h3);
+      sectionProject.appendChild(hr1);
       sectionProject.appendChild(ul);
+      sectionProject.appendChild(hr2);
       sectionProject.appendChild(descriptionPara);
       sectionProject.appendChild(websiteLink);
 
