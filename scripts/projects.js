@@ -24,6 +24,7 @@ const fetchProjects = async () => {
       const img = document.createElement("img");
       img.setAttribute("src", project.snapshot);
       img.setAttribute("alt", project.projectName);
+      img.setAttribute("class", "thumbnail");
 
       // create the project header
       const h3 = document.createElement("h3");
@@ -54,7 +55,7 @@ const fetchProjects = async () => {
       websiteLink.setAttribute("class", "websiteUrl");
       websiteLink.setAttribute("href", project.websiteUrl);
       websiteLink.setAttribute("target", "_blank");
-      const websiteLinkText = document.createTextNode("Visit Website");
+      const websiteLinkText = document.createTextNode("Visit the website");
       websiteLink.appendChild(websiteLinkText);
       const gotoIcon = document.createElement("i");
       gotoIcon.setAttribute("class", "fa-sharp fa-solid fa-arrow-up-right-from-square");
