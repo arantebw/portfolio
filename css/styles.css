@@ -8,6 +8,16 @@
   --border-color: rgba(255, 255, 255, 0.25);
 }
 
+html, body {
+  height: 100%;
+}
+
+div.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
 /*
  *
  * CSS reset
@@ -104,6 +114,8 @@ a {
 footer {
   width: 100vw; /* vw -> viewport width */
   padding: 24px;
+  position: initial;
+  margin-top: auto;
 
   & > section {
     display: flex;
@@ -296,10 +308,6 @@ main#content + h3 {
 
 main#content > div {
   padding-bottom: 0;
-}
-
-footer {
-  position: initial;
 }
 
 section#hero-banner > div {
